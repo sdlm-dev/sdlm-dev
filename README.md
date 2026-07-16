@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Sérgio! 👋
 
-<!--
-**sdlm-dev/sdlm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub!
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 💻 Software Developer
+- 🎓 Formado em Engenharia Eletrotécnica e de Computadores/ Especialização em Gestão Industrial
+- 🎯 O meu objetivo para este ano é começar um novo projecto!
+- ⚡ Curiosidade sobre mim: Chess Player ♟️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias com as quais já trabalhei ou estou a aprender:
+- **Linguagens:** JavaScript, React, Mongo, SQL, Express.js, BPMN
+- **Ferramentas:** VS Code, Git, Postman, Figma, Docker, Azure, Jira, Slack
+
+## 📫 Como entrar em contacto comigo
+- 💼 LinkedIn: https://www.linkedin.com/in/sergiodlmoreira
+- 📧 Email: sergio.dlmoreira-dev@gmail.com
